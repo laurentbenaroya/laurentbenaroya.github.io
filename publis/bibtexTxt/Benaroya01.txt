@@ -1,0 +1,13 @@
+@InProceedings{Benaroya01, %OK
+author = {E.L. Benaroya and R. Gribonval and F. Bimbot},
+title = {Repr\'esentations parcimonieuses pour la s\'eparation de sources avec un seul capteur},
+%booktitle = {18th Symposium on Signal and Image Processing (GRETSI)},
+year = 2001,
+address = {Toulouse, France},
+  BOOKTITLE = {{18e colloque GRETSI sur le traitement du signal et des images}},
+ % BOOKTITLE = {{XVIIIe colloque GRETSI (traitement du signal et des images), septembre 2001}},
+ % ADDRESS = {Toulouse, France},
+ % PUBLISHER = {{GRETSI, Groupe d'Etudes du Traitement du Signal et des Images}},
+  PAGES = {434},
+  MONTH = September
+  }

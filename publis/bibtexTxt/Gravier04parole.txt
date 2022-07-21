@@ -1,0 +1,8 @@
+@InProceedings{Gravier04parole, % manque pages
+author = {G. Gravier and E.L. Benaroya and A. Ozerov and R. Gribonval and F. Bimbot},
+title = {S\'eparation de sources \`a  partir d'un seul capteur pour la reconnaissance robuste de la parole},
+booktitle = {Journ\'ees d'Etude sur la Parole (JEP)},
+year = 2004,
+  MONTH = April,
+address = {F\`es, Maroc}
+}

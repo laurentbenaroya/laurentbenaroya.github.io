@@ -1,0 +1,7 @@
+@TechReport{BenaroyaAgro11, % OK
+author = {E.L. Benaroya},
+title = {R program for the comparison of colored network based on motifs},
+institution = {projet ANR NeMo, AgroParisTech},
+year = 2011,
+month = {February}
+}

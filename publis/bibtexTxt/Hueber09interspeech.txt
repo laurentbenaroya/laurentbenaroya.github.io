@@ -1,0 +1,8 @@
+@InProceedings{Hueber09Interspeech,
+author = {T. Hueber and E.L. Benaroya and G. Chollet and B. Denby and G. Dreyfus and M. Stone},
+title = {Visuo-Phonetic Decoding using Multi-Stream and Context-Dependent Models for an Ultrasound-based Silent Speech Interface},
+year = 2009,
+address = {Brighton, UK},
+  booktitle = {Interspeech},
+  pages = {640-643}
+}

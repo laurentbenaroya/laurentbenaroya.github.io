@@ -1,0 +1,9 @@
+@Article{benaroyaTSAP06,
+author = {E.L. Benaroya and F. Bimbot and R. Gribonval},
+title = {Audio source separation with a single sensor},
+journal = {IEEE Transactions on Speech and Audio Processing},
+year = 2006,
+volume = {14},
+number = {1},
+pages = {191-199}
+}

@@ -1,0 +1,9 @@
+@InProceedings{Happi12ICIT, % OK
+author = {B. Happi Tieche and O. Romain and B. Denby and E.L. Benaroya et al},
+title = {Software  Radio FM Broadcast Receiver for Audio Indexing Applications},
+  BOOKTITLE = {{IEEE International Conference on Industrial Technology (ICIT)}},
+  PAGES = {585 - 590},
+  MONTH = March,
+address = {Kos Island, Greece},
+year = 2012
+}

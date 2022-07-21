@@ -1,0 +1,11 @@
+@InProceedings{Lesage05OrthoBases, % OK
+author = {S. Lesage and R. Gribonval and F. Bimbot and E.L. Benaroya},
+title = {Learning Unions of Orthonormal Bases with Thresholded Singular Value Decomposition},
+year = 2005,
+  BOOKTITLE = {{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}},
+  ADDRESS = {Philadelphia, PA, United States},
+  VOLUME = {V},
+  PAGES = {293--296},
+  MONTH = March,
+address = {Philadelphia, PA, USA}
+}

@@ -1,0 +1,10 @@
+@InProceedings{Benaroya03NMF, % 0K
+author = {E.L. Benaroya and L. Mc Donagh and R. Gribonval and F. Bimbot},
+title = {Non Negative Sparse Representation For Wiener Based Source Separation with a Single Sensor},
+year = 2003,
+  BOOKTITLE = {{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}},
+  ADDRESS = {Hong-Kong, China},
+    VOLUME = {VI},
+  PAGES = {613--616},
+  MONTH = April,
+}

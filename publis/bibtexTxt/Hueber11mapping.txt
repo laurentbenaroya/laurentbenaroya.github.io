@@ -1,0 +1,9 @@
+@InProceedings{Hueber11mapping, % OK
+author = {T. Hueber and E.L. Benaroya and B. Denby and G. Chollet},
+title = {Statistical Mapping between Articulatory and Acoustic Data for an Ultrasound-based Silent Speech Interface},
+  booktitle = {Interspeech},
+  month = August,
+address = {Firenze, Italia},
+  pages={593--596},
+year = 2011
+}

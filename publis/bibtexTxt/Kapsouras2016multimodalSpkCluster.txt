@@ -1,0 +1,7 @@
+@Article{Kapsouras2016multimodalSpkCluster, % +/- OK
+author={I. Kapsouras and A. Tefas and N. Nikolaidis and G. Peeters and E.L. Benaroya and I. Pitas},
+title={Multimodal speaker clustering in full length movies},
+journal={Multimedia Tools and Applications},
+year=2016,
+pages={1--20}
+}

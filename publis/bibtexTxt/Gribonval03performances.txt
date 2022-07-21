@@ -1,0 +1,9 @@
+@InProceedings{Gribonval03performances, % OK
+author = {R. Gribonval and E.L. Benaroya and E. Vincent and C. F{\'e}votte},
+title = {Proposals for performance measurement in source separation},
+year = 2003,
+address = {Nara, Japan},
+BOOKTITLE = {{4th International Symposium on Independent Component Analysis and Blind Signal Separation (ICA)}},
+  PAGES = {763--768},
+  MONTH = April
+}
